@@ -1,0 +1,9 @@
+{
+	"name": "rojasdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c1e765f-a638-455e-a400-f344882e1e12",
+		"tenantId": "50f40e4c-d12a-4650-adc1-1ae3945da5c7"
+	}
+}
