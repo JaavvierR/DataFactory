@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "pl_capaplata",
 	"properties": {
 		"activities": [
 			{
@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/valleste2@gmail.com/Prueva_Carpeta"
+					"notebookPath": "/Users/valleste2@gmail.com/Transferencia_de_datos_capaplata"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks_DataFactory",
